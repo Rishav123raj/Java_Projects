@@ -1,0 +1,14 @@
+Number Guessing Game is a project which guesses a random number input of computer to the input of the user.
+If the user guesses the correct number , he/she gets score .
+The score is based on how fast he/she guesses the correct number.
+The maximum number of limit to guess is 10. If the max limit is exceeded , the user needs to play the game again.
+The maximum score a user can achieve is 100.
+The game starts by first guess. If the user guesses a number greater than the computer's random number , it displays a , message saying "Guessed
+too high number" and if the user guesses a number lesser than the computer's random number , it displays a , message saying "Guessed
+too low number".
+Only when the user guesses the correct number , he/she gets the score.
+The user can play as many rounds of the game as he/she wants.
+Total Score is displayed after each right guess.
+
+Technology Used : HTML , CSS and JAVASCRIPT (Frontend)
+                  JSP , Servlet and JAVA Programming (Backend)
