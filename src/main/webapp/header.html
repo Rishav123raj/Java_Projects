@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<style>
+header {
+    background-color: #333;
+    padding: 10px;
+    text-align: left;
+}
+</style>
+</head>
+<body>
+<header>
+  <a href="<%= request.getContextPath() %>/HomeController?action=service ">Service</a>
+  <a href="<%= request.getContextPath() %>/HomeController?action=about ">About</a>
+  <a href="<%= request.getContextPath() %>/HomeController?action=contact ">Contact</a>
+  <a href="<%= request.getContextPath() %>/HomeController?action=login ">Login</a>  
+</header>
+</body>
+</html>
