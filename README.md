@@ -37,3 +37,9 @@ A counter keeps track of the number of attempts the user has made to guess the c
 The game ends when the user correctly guesses the random number. The user is then informed of their success and the number of attempts it took.
 # Restart Option
 Optionally, the game can offer the user the choice to play again, resetting the random number and the guess counter.
+# Technologies Used:
+- JAVA
+- JSP (JavaServer Pages)
+- HTML
+- CSS
+- JavaScript
