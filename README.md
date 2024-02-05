@@ -13,7 +13,7 @@ Ability to create, edit, and manage a database of multiple-choice questions cate
 Easy interface to design exams, allowing instructors to select questions from the question bank, set time limits, and define other exam parameters.
 # Timer and Notifications:
 A timer for each exam to ensure that students complete the test within the specified time. Notifications to alert students about the remaining time.
-# Technologies:
+# Technologies Used:
 - JAVA
 - JSP (JavaServer Pages)
 - Servlets
