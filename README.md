@@ -67,4 +67,4 @@ Incorporate security features to safeguard user data and prevent unauthorized ac
 Provide a user-friendly interface for a seamless and intuitive user experience.
 # Administrative Controls
 Include administrative controls for managing system parameters, monitoring transactions, and handling system maintenance.
-# Open Source Contribution is highly accepted
+# Open Source Contribution is highly acceptable
