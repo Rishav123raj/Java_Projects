@@ -59,7 +59,7 @@ Provide a mechanism for users to deposit cash into their accounts, ensuring accu
 Allow users to check their account balances without performing any transactions.
 # Transfer Funds
 Enable users to transfer funds between their own accounts or to other accounts within the same bank.
-# Error Handling:
+# Error Handling
 Implement error-handling mechanisms to address issues such as insufficient funds, invalid PINs, or transaction failures.
 # Security Measures
 Incorporate security features to safeguard user data and prevent unauthorized access or fraudulent activities.
