@@ -43,3 +43,28 @@ Optionally, the game can offer the user the choice to play again, resetting the 
 - HTML
 - CSS
 - JavaScript
+# Project 3 : ATM MANAGEMENT SYSTEM
+
+The ATM (Automated Teller Machine) Management System Project is a software application designed to efficiently manage and simulate the operations of an ATM. This system facilitates the interaction between customers and the ATM machine, allowing users to perform various financial transactions seamlessly. Here's a brief description of the key features and components of an ATM Management System:
+# Features:
+# User Authentication
+Secure user authentication to ensure that only authorized individuals have access to their bank accounts.
+# Account Information
+Display account details such as balance, account number, and transaction history.
+# Cash Withdrawal
+Allow users to withdraw cash from their accounts, with proper validation and verification checks.
+# Cash Deposit
+Provide a mechanism for users to deposit cash into their accounts, ensuring accuracy in handling deposited funds.
+# Balance Inquiry
+Allow users to check their account balances without performing any transactions.
+# Transfer Funds
+Enable users to transfer funds between their own accounts or to other accounts within the same bank.
+# Error Handling:
+Implement error-handling mechanisms to address issues such as insufficient funds, invalid PINs, or transaction failures.
+# Security Measures
+Incorporate security features to safeguard user data and prevent unauthorized access or fraudulent activities.
+# User Interface
+Provide a user-friendly interface for a seamless and intuitive user experience.
+# Administrative Controls
+Include administrative controls for managing system parameters, monitoring transactions, and handling system maintenance.
+# Open Source Contribution is highly accepted
