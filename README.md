@@ -22,4 +22,18 @@ A timer for each exam to ensure that students complete the test within the speci
 - CSS
 - JavaScript
 
-
+# Project 2 : Number Guessing Game
+The Number Guessing Game Project is a simple yet entertaining program where the user attempts to guess a randomly generated number within a specified range. This game typically involves interaction between the user and the computer, providing a fun and educational experience for those learning programming concepts. Here's a brief description of the key features and components of a Number Guessing Game Project:
+# Features
+# Random Number Generation
+The computer generates a random number within a predefined range (e.g., between 1 and 100).
+# User Input
+The user is prompted to input their guess for the randomly generated number.
+# Feedback Mechanism
+The game provides feedback to the user after each guess, indicating whether the guess is too high, too low, or correct.
+# Guess Counter
+A counter keeps track of the number of attempts the user has made to guess the correct number.
+# Winning Condition
+The game ends when the user correctly guesses the random number. The user is then informed of their success and the number of attempts it took.
+# Restart Option
+Optionally, the game can offer the user the choice to play again, resetting the random number and the guess counter.
